@@ -1,3 +1,4 @@
-# 禁止所有搜索引擎爬取
 User-agent: *
-Disallow: /
+Allow: /
+Sitemap: https://lunatv.app/sitemap.xml
+Host: https://lunatv.app
